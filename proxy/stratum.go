@@ -9,7 +9,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/sammy007/open-ethereum-pool/util"
+	"github.com/bthanh18391/open-ethereum-pool-1/util"
 )
 
 const (
