@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ethereum/go-ethereum/common/hexuti"
+	"github.com/ethereum/go-ethereum/common/hexutil"
 
 	"github.com/bthanh18391/open-ethereum-pool-1/util"
 )
