@@ -3,7 +3,7 @@
 # don't need to bother with make.
 
 .PHONY: all test clean
-
+export GO111MODULE=auto
 GOBIN = build/bin
 
 all:
